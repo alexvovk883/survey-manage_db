@@ -6,10 +6,19 @@
  
  ***vhgdvdc dhcbjhbcds cdsbcdshgc b cbhd cgds cg d***
 
+
+**тут пока рандомный жирный текст**
+
+*чет еще*
  gdgdgf:
  - jdsjsd
  - ncjdsnc
- - mncjdcnsdknc
+ - *****mncjdcnsdknc****
+
+
+***и тут какаято штука***
+
+
 
 <span style="color:red"> sbhcjhsdcdshc </span>
 
