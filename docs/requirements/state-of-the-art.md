@@ -10,10 +10,10 @@
 **тут пока рандомный жирный текст**
 
 *чет еще*
- gdgdgf:
+ gdgdgf:kxjdvndvnlzkdvn00000000000000
  - jdsjsd
  - ncjdsnc
- - *****mncjdcnsdknc****
+ - ****mncjdcnsdknc****
 
 
 ***и тут какаято штука***
