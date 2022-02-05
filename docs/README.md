@@ -13,7 +13,7 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 - Vovk Oleksii [tg](https://t.me/alexvovk883)
 - ббб
--
+-vs
 **Керівник**
 
 *доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК** 
